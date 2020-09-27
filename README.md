@@ -2,4 +2,4 @@
 
 Pet Adoption with Software
 
-Old Capstone Project I'm in the process of refactoring into a Django frontend  
+Old Capstone Project that I plan to refactor into a Django frontend  
